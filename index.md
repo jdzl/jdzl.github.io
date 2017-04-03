@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# PORTAFOLIO
 
-You can use the [editor on GitHub](https://github.com/jdzl/me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Proyectos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### SANO & NATURAL
 
-### Markdown
+Sistema intranet para la gestión de historías clinicas de pacientes, facturación e inventario.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![alt text](img/sanoynatural.jpg "Sano & Natural")
 
-```markdown
-Syntax highlighted code block
+### FACTSISOFT NÓMINA
 
-# Header 1
-## Header 2
-### Header 3
+Módulo para la gestión de nóminas de entidades públicas y privadas.
 
-- Bulleted
-- List
+![alt text](img/factsisoft.jpg "FACTSISOFT Nómina")
 
-1. Numbered
-2. List
+### UPME
 
-**Bold** and _Italic_ and `Code` text
+Sistema para el control de precios de gasolina estaciones de servicio.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdzl/me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![alt text](img/upme.jpg "UPME")
