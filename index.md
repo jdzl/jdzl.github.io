@@ -6,7 +6,7 @@
 
 Sistema intranet para la gestión de historías clinicas de pacientes, facturación e inventario.
 
-<center>![alt text](img/sanoynatural.jpg "Sano & Natural")</center>
+<center><img src="img/sanoynatural.jpg" alt="Sano & Natural" /></center>
 
 ### FACTSISOFT NÓMINA
 
