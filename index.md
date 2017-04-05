@@ -13,7 +13,7 @@ Sistema intranet para la gestión de historías clinicas de pacientes, facturaci
 Módulo para la gestión de nóminas de entidades públicas y privadas.
 
 <center><img src="img/factsisoft.jpg" alt="FACTSISOFT Nómina" /></center>
-<video width="640" height="360" id="player1" preload="none">
+<video width="640" height="360" id="player1" preload="true">
     <source type="video/youtube" src="http://www.youtube.com/watch?v=nOEw9iiopwI" />
 </video>
 sss
