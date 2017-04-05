@@ -16,7 +16,6 @@ Módulo para la gestión de nóminas de entidades públicas y privadas.
 <video width="640" height="360" id="player1" preload="true">
     <source type="video/youtube" src="https://www.youtube.com/watch?v=c3R71KOW2Ow" />
 </video>
-sss
 
 ### UPME
 
