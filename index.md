@@ -13,7 +13,7 @@ Sistema intranet para la gestión de historías clinicas de pacientes, facturaci
 Módulo para la gestión de nóminas de entidades públicas y privadas.
 
 <center><img src="img/factsisoft.jpg" alt="FACTSISOFT Nómina" /></center>
-<video src="video.mp4" width="320" height="200" controls preload></video>
+<video src="https://www.youtube.com/watch?v=c3R71KOW2Ow" width="320" height="200" controls preload></video>
 ### UPME
 
 Sistema para el control de precios de gasolina estaciones de servicio.
