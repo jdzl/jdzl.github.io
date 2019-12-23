@@ -5,7 +5,7 @@
 
 ### Taras
 
-Sistema que permite calcular tarifas de aseo 
+Plataforma para la liquidación individual o masiva de los servicios de Aseo que presta la empresa Bioagricola en la Ciudad de Villavicencio. La aplicación permite realizar calculos de distribución de costos de servicios de aseo para que posteriormente puedan ser facturados.
 
 <center>
  
