@@ -8,9 +8,10 @@
 Sistema que permite calcular las tarifas de aseo 
 
 <center>
-  ![alt text](img/taras-login.JPG "Login")
-
+ 
+  <span>
   <img src="img/taras-login.JPG" alt="Login" width="300" />
+  </span>
   <span>
   <img src="img/taras_multiusuarios.JPG" alt="MultiUsuarios" width="300"/>
 </span>
