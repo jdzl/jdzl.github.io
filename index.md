@@ -5,7 +5,7 @@
 
 ### Taras
 
-Sistema que permite calcular las tarifas de aseo 
+Sistema que permite calcular tarifas de aseo 
 
 <center>
  
