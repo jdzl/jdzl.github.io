@@ -11,7 +11,7 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">J. David Zambrano Lizarazo</h1>
+      <h1 class="project-name textAnimate">J. David Zambrano Lizarazo</h1>
       <h2 class="project-tagline">
       Desarrollador y Analista de software <br/>
       con conocimientos en [ Nodejs , React & Redux,Blockchain,C#, PHP,AWS,Python, SGDB,.. ]
@@ -25,5 +25,27 @@
         <span class="site-footer-credits">This page * by <a href="https://pages.github.com">GitHub Pages</a>.</span>
       </footer>
     </section>
+    
+    <script>
+        const textAnimate = document.querySelector('.textAnimate')
+        const spltText = textAnimate.textContent.split('')
+        textAnimate.textContent = ''
+        for (text of spltText) {
+            textAnimate.innerHTML += `<span>${text}</span>`
+        }
+        let j = 0
+        const onSpan = () => {
+            const span = textAnimate.querySelectorAll('span')[j]            
+            span.classList.add('fade')
+            j++
+
+            if (j === spltText.length) {
+                clearInterval(timer)
+                timer = null
+                return
+            }
+        }
+        let timer = setInterval(onSpan, 60)
+    </script>
   </body>
 </html>
